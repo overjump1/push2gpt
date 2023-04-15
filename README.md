@@ -1,11 +1,14 @@
 # push2gpt
-push2gpt is a hobby project of mine aimed at communicating with chatgpt using push to talk.
-you need to install all of the imported libraries in order to make it work.
-set your own openai api token in order to access their gpt models and speach to text model.
-setup your google cloud auth. to learn more, visit the folllowing page: https://cloud.google.com/docs/authentication/provide-credentials-adc#how-to
-after everything is set up correctly, alt key is the defult key for talking to this model.
-press alt key, then talk, then when you release the alt key you should wait a few seconds until you'll hear the respounce outloud.
-remember, currently the script will use your defult audio sources and is very limited.
+"Push2GPT" is a hobby project of mine aimed at communicating with ChatGPT using push-to-talk. 
 
-while my code isn't the best, i belieave that with the help of a community we can get this project to be much better over time.
-thanks so much for using this and enjoy :D
+You need to install all the imported libraries to make it work. 
+
+Set your own OpenAI API token to access their GPT models and speech-to-text model, and set up your Google Cloud authentication. 
+
+To learn more, please visit the following page: https://cloud.google.com/docs/authentication/provide-credentials-adc#how-to. 
+
+After everything is set up correctly, the Alt key is the default key for talking to this model. 
+
+Press the Alt key, then talk. When you release the Alt key, wait a few seconds until you hear the response out loud. Remember, currently, the script will use your default audio sources and is very limited.
+
+While my code isn't the best, I believe that with the help of a community, we can make this project much better over time. Thank you so much for using this, and enjoy! :D
