@@ -9,6 +9,10 @@ To learn more, please visit the following page: https://cloud.google.com/docs/au
 
 After everything is set up correctly, the Alt key is the default key for talking to this model. 
 
-Press the Alt key, then talk. When you release the Alt key, wait a few seconds until you hear the response out loud. Remember, currently, the script will use your default audio sources and is very limited.
+Press the Alt key, then talk. 
+
+When you release the Alt key, wait a few seconds until you hear the response out loud. 
+
+Remember, currently, the script will use your default audio sources and is very limited.
 
 While my code isn't the best, I believe that with the help of a community, we can make this project much better over time. Thank you so much for using this, and enjoy! :D
